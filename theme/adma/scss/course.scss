@@ -1,0 +1,38 @@
+.frontpage-course-list-all {
+  justify-content: space-between;
+}
+.coursebox {
+  width: 31%;
+  min-height: 33vh;
+  border: 1px solid black;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between !important;
+  h3 {
+    float: none !important;
+    margin: 0 !important;
+    a {
+      background-color: #3E62D4;
+      color: white;
+      display: block;
+      padding: 15px;
+    }
+  }
+  .summary {
+    float: none !important;
+    display: block !important;
+    width: 100% !important;
+  }
+  .courseimage {
+    display: block;
+    float: none !important;
+    img {
+      max-width: 100% !important;
+      max-height: none !important;
+    }
+  }
+  .teachers {
+    /*display: none;*/
+  }
+}

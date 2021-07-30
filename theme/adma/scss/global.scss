@@ -1,0 +1,24 @@
+ body, .card, #page-enrol-users #filterform, .path-calendar .maincalendar .calendar-event-panel, .block .calendar-event-panel .yui3-overlay-content, .que .history, .userprofile .profile_tree section, .groupinfobox, .forumpost, .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax .yui-layout-unit-right, .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax .yui-layout-unit-bottom, .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax #chat-messages .chat-message.course-theme, .well {
+  background-color: #F7F5F6;
+}
+ .notloggedin #page-header {
+   display: none;
+ }
+
+ .d-flex {
+   display: flex;
+ }
+ .justify-content-between {
+   justify-content: space-between;
+ }
+ .align-items-center {
+   align-items: center;
+ }
+ .max-height-50 {
+   max-height: 50vh;
+ }
+
+ /* images */
+ .courseimage {
+   width: 100% !important;
+ }

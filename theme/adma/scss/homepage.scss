@@ -1,0 +1,11 @@
+.home-headband {
+  height: 50vh;
+  #first-col-home {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    .btn-success {
+      align-self: center;
+    }
+  }
+}
